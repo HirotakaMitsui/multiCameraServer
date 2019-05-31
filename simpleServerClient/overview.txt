@@ -1,0 +1,3 @@
+Project GOAL:
+Develope a simple one to one server client program.
+
